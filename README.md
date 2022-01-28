@@ -33,7 +33,7 @@ An API for a social network web application where users can share their thoughts
 
 [View the Demo Here!!](https://watch.screencastify.com/v/CfSZLaQfliRmkosAjdm9)
 
-The walkthrough demonstrates the GET, POST, PUT, and DELETE methods for users and thoughts, as well as the POST and DELETE methods for thought reactions and friend lists.
+The walkthrough demonstrates the GET, POST, PUT, and DELETE methods for users and thoughts.
 
 ## Installation:
 
