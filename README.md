@@ -1,4 +1,4 @@
-# Social Network API
+# M18 Challenge - Social Network API
 
 An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This application uses Express, Node, MongoDB and Mongoose ODM.
 
