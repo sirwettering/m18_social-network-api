@@ -45,5 +45,3 @@ The walkthrough demonstrates the GET, POST, PUT, and DELETE methods for users an
 
 GitHub Repository: 
 
-
-# m18_social-network-api
